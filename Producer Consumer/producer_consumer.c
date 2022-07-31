@@ -46,6 +46,8 @@ break;
 printf("buffer is empty");
 
 case 3:
+exit(0);
+break;
 
 }
 }
