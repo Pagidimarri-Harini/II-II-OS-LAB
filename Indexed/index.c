@@ -25,4 +25,5 @@ printf("Index is:%d",sb[i]);
 printf("Block occupied are:");
 for(j=0;j<m[i];j++)
 printf("%3d",b[i][j]);
-//getch();
+return 0;
+}
